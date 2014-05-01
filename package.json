@@ -1,0 +1,24 @@
+{
+  "name": "getting-started-with-passport",
+  "version": "0.0.0",
+  "description": "https://github.com/saitodisse/getting-started-with-passport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saitodisse/getting-started-with-passport.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/saitodisse/getting-started-with-passport/issues"
+  },
+  "dependencies": {
+    "express": "~4.1.1",
+    "passport": "~0.2.0",
+    "passport-twitter": "~1.0.2",
+    "connect-ensure-login": "~0.1.1"
+  }
+}
